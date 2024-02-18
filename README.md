@@ -29,14 +29,14 @@ This dashboard provides insights into air quality data, helping users visualize 
    ```
 
 ### Data Sources:
-- Air Quality Index (AQI) data is sourced from [provide source name/link if applicable].
-- Climate variables data is obtained from [provide source name/link if applicable].
+- Air Quality Index (AQI) data is sourced from https://drive.google.com/file/d/1RhU3gJlkteaAQfyn9XOVAz7a5o1-etgr/view?usp=share_link.
+- Climate variables data is obtained from Air Quality Index (AQI) data
 
 ### Contribution Guidelines:
 - Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 ### Contributors:
-- [Firman Nurcahyo]
+- Firman Nurcahyo
 
 ### License:
 - This project is licensed under the [Dicoding Academy]. Feel free to use and modify the code as per the terms of the license.
